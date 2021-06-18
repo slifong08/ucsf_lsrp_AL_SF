@@ -1,0 +1,3 @@
+# .bashprofile FOR LOCAL
+
+alias nb1='ssh -L 9999:capra1:7777 leea32@capra1.accre.vanderbilt.edu'

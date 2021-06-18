@@ -1,0 +1,5 @@
+# .bashrc environment configuration file for Albertina 
+
+ml load GCC/6.4.0-2.28 Anaconda3 # load the GCC openware platform (compiler for translation computer code from one language to another) and Anaconda
+
+alias 'nb1'="jupyter notebook --no-browser --ip='*' --port=7777" # load Jupiter notebook from ACCRE environment ONLY
